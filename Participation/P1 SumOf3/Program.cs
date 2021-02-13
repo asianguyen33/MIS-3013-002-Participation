@@ -19,8 +19,7 @@ namespace P1_SumOf3
 
             Console.WriteLine("Please enter first number");
             string answer1 = Console.ReadLine();
-            double value1 = Convert.ToDouble(answer1)
-            //FirstNumber = Convert.ToDouble(answer1);
+            FirstNumber = Convert.ToDouble(answer1);
 
             Console.WriteLine("Please enter second number");
             string answer2 = Console.ReadLine();
